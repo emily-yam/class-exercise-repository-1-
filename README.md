@@ -1,1 +1,2 @@
-# class-exercise-repository-1-
+# class-test
+Class exercise repository 1
